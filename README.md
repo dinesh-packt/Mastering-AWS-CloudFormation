@@ -1,2 +1,2 @@
 # Mastering-AWS-CloudFormation
-Mastering AWS CloudFormation, published by Packt
+Mastering AWS CloudFormation, published by Packt Publishing
